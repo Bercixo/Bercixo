@@ -1,0 +1,3 @@
+- Hi, I'am @Bercixo and here is my little shed. 
+- Here you will find some projects that I am happy to share.
+- If you would like to use the code, please remember about me and add me as a co-author :)
