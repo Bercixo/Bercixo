@@ -1,3 +1,3 @@
 - Hi, I'm Hubert and here is my little shed. 
 - Here you will find some scientific and non-scientific projects that I am happy to share.
-- Remember, that code is {++not perfect++} and can contain some bugs.
+- Remember, that code is pass:[not perfect] and can contain some bugs.
