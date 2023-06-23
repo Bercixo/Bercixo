@@ -1,3 +1,3 @@
 - Hi, I'm Hubert and here is my little shed. 
 - Here you will find some scientific and non-scientific projects that I am happy to share.
-- If you would like to use the code, please remember about me and add me as a co-author :)
+- Remember, that code is _not perfect_ and can contain some bugs.
